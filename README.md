@@ -1,8 +1,8 @@
- #Discription:
+# Discription:
 
 One of the SOC analysts took a memory dump from a machine infected with a meterpreter malware. your job is to analyze the dump, extract the available indicators of compromise (IOCs).
 
- #start point :
+# start point :
 
 At start we need to know the profile of the image we are dealing with we can simply extract this information using the "imageinfo" plugin 
 
